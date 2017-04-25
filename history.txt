@@ -1,0 +1,136 @@
+    1  su
+    2  sudo
+    3  -u
+    4  whoami
+    5  su
+    6  su1druid&trees
+    7  su
+    8  exit
+    9  .bashrc
+   10  vim .bashrc
+   11  source .bashrc
+   12  vim .bashrc
+   13  source .bashrc
+   14  apt-get install fortune
+   15  source .bashrc
+   16  vim .bashrc
+   17  source .bashrc
+   18  vim .bashrc
+   19  source .bashrc
+   20  vim .bashrc
+   21  whereis .bashrc
+   22  sudo su
+   23  source .bashrc
+   24  vim .bashrc
+   25  diff /etc/skel/.bashrc
+   26  diff /etc/skel/.bashrc .bashrc
+   27  source .bashrc
+   28  vim .bashrc
+   29  source .bashrc
+   30  vim .bashrc
+   31  source .bashrc
+   32  sudo su
+   33  asciiquarium
+   34  vim .bashrc
+   35  source .basrc
+   36  source .bashrc
+   37  asciiquarium
+   38  ls
+   39  sudo su
+   40  source .bashrc
+   41  vim .bashrc
+   42  source .bashrc
+   43  apt-cache search pdf
+   44  grep | kde
+   45  grep --option
+   46  grep --help
+   47  kde | grep -l
+   48  ps
+   49  ps aux
+   50  ps aux | more
+   51  ps aux | less
+   52  ps aux
+   53  ps aux | more
+   54  ps aux | more | gnome
+   55  ps aux | more | grep | gnome
+   56  ps aux | more
+   57  source .bashrc
+   58  ps aux | more
+   59  ps aux | grep firefox
+   60  kill 2406
+   61  ps aux | grep gnome
+   62  ps aux | grep terminal
+   63  kill 1653
+   64  top 
+   65  lsof
+   66  lsof | more
+   67  sudo su
+   68  cd ~
+   69  ls
+   70  ls -l
+   71  cd Desktop
+   72  dir
+   73  ls
+   74  rm test.txt
+   75  rm test.txt 
+   76  echo "What's up cracker jack?" test.txt
+   77  echo "Hello monkey wrench\?" >> text.txt
+   78  echo "goodbye monkey wrench\?" monkey.txt
+   79  echo "goodbye monkey wrench...\?" >> test.txt
+   80  text.txt
+   81  /text.txt
+   82  ls 
+   83  echo "Goodbye motha fucka\?" >> test.txt
+   84  echo "I wanna hold your hand." >> beatles.txt
+   85  vim
+   86  vi
+   87  chmod +x beatles.txt
+   88  ls -l
+   89  ./beatles.txt
+   90  .beatles.sh
+   91  vim
+   92  vim test.sh
+   93  ./test/sh
+   94  ./test.sh
+   95  chmod +x test.sh
+   96  ls -l
+   97  ./test.sh
+   98  /test.sh
+   99  .test.sh
+  100  ./test.sh
+  101  vim test.sh
+  102  ./test.sh
+  103  vim test.sh
+  104  cd Desktop
+  105  bash test.sh
+  106  vim test.sh
+  107  bash .test.sh
+  108  bash ./test.sh
+  109  ./test.sh
+  110  bash ./test.sh
+  111  bash ./test.shsource .bashrc
+  112  source .bashrc
+  113  source.bashrc
+  114  source .bashrc
+  115  cd ~
+  116  source .bashrc
+  117  history
+  118  vim .bashrc
+  119  source .bashrc
+  120  apt-get install git
+  121  apt-get -f install git
+  122  apt-get -f install
+  123  sudo su
+  124  git | less
+  125  git config --global user.name "michelisondaniel"
+  126  git config --global user.email michelison.daniel@gmail.com
+  127  git clone https://github.com/michelisondaniel/ITC136.git
+  128  ls -l
+  129  cd ITC136
+  130  ls -l
+  131  cd images
+  132  cd Images
+  133  ls -l
+  134  cd ..
+  135  history
+  136  history >> history.txt
